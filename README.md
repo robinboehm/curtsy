@@ -110,3 +110,7 @@ You can find this example in `example/circle.html`.
 ## Contribute
 
 If you have a feature you'd like to add or a gesture you'd like supported, submit an issue through GitHub or better yet, a pull request!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/robinboehm/curtsy/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
